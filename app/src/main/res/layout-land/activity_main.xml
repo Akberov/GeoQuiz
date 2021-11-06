@@ -37,7 +37,7 @@
             android:id="@+id/prev_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_gravity="bottom|left"
+            android:layout_gravity="bottom|start"
             android:drawableLeft="@drawable/arrow_left"
             android:drawablePadding="4dp"
             android:text="@string/prev_button" />
@@ -46,7 +46,7 @@
             android:id="@+id/next_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_gravity="bottom|right"
+            android:layout_gravity="bottom|end"
             android:drawableRight="@drawable/arrow_right"
             android:drawablePadding="4dp"
             android:text="@string/next_button" />
